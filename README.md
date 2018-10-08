@@ -33,3 +33,7 @@ c) en ajoutant un object adapter utilisez l'injection pour que le programme util
 
 Vous pouvez utiliser cette référence pour vous aider
 http://www.vogella.com/tutorials/SpringDependencyInjection/article.html
+
+Vous pouvez également utiliser la doc de référence de Spring
+https://spring.io/guides
+
