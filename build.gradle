@@ -18,10 +18,14 @@ group = 'eu.telecomnancy'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
+
+bootRun {
+	standardInput = System.in
+}
+
 repositories {
 	mavenCentral()
 }
-
 
 dependencies {
 	implementation('org.springframework.boot:spring-boot-starter')

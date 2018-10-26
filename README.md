@@ -38,3 +38,8 @@ http://www.vogella.com/tutorials/SpringDependencyInjection/article.html
 Vous pouvez également utiliser la doc de référence de Spring :
 https://spring.io/guides
 
+
+## Notes
+
+If you want to run the application using Gradle on the command line, you might use `gradle bootRun -q --console=plain` 
+command to get rid of fancy gradle outputs.
